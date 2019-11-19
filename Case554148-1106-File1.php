@@ -1,7 +1,7 @@
 <?php
 class mock {
 
-        public function method1sadasd()
+        public function method1()
        {
                 //code goes here
         }
